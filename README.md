@@ -11,9 +11,6 @@ Aspiring Full Stack Developer and Al Engineer with a strong foundation in Python
 ![](https://nirzak-streak-stats.vercel.app/?user=vignes-vm&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vignes-vm&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vignes-vm&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
