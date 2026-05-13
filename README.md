@@ -1,22 +1,242 @@
-# 💫 About Me:
-Aspiring Full Stack Developer and Al Engineer with a strong foundation in Python, Java, C++, MATLAB, and modern development tools, currently deepening expertise in operating systems, computer networks, and full-stack app and web development. Passionate about building intelligent, user-centric digital products and transforming complex problems into practical, scalable solutions. Driven by innovation and continuous learning, focused on contributing to forward- thinking teams, delivering high-impact applications, and growing into a versatile engineer across software, Al. and product development. Committed to creating technology that is functional, meaningful, accessible, and future-effective.
 
-Check out my portfolio : [Portfolio](https://vignesvm.netlify.app)
+<h1 align="center">Hi 👋, I'm Vignes V M</h1>
+<h3 align="center">Full Stack Developer • AI Engineer • Intelligent Systems Builder</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vign.ess_?igsh=and4dXB0ZzZyemRr&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vignes-madeshwaran-380b15358) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vignes.madeshwaran@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vignes-vm&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vignes-vm&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vignes-vm&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vignes-vm&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  Building intelligent, scalable, and user-centric digital products powered by AI and modern full-stack technologies.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vignes-vm&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+🌐 Portfolio: https://vignesvm.netlify.app  
+
+💼 LinkedIn: https://www.linkedin.com/in/vignes-madeshwaran-380b15358  
+
+📧 Email: vignes.madeshwaran@gmail.com  
+
+💻 GitHub: https://github.com/vignes-vm  
+
+</div>
+
+---
+
+# 🚀 About Me
+
+```yaml
+Name: Vignes V M
+Role: Full Stack Developer & AI Engineer
+Education: B.Tech CSE (AI)
+University: Amrita Vishwa Vidyapeetham
+CGPA: 8.83 / 10
+
+Current Focus:
+  - AI-Powered Applications
+  - Real-Time Systems
+  - Intelligent Finance Platforms
+  - Full Stack SaaS Products
+  - Institutional Trading Intelligence Systems
+
+Learning:
+  - Advanced System Design
+  - Operating Systems
+  - Computer Networks
+  - AI Product Engineering
+
+Goal:
+  Build impactful, scalable, and future-ready intelligent systems.
+```
+
+---
+
+# 🧠 What I Build
+
+✨ AI-powered web applications  
+⚡ Real-time communication systems  
+📊 Intelligent analytics dashboards  
+🤖 Multi-agent AI systems  
+💹 Institutional trading intelligence platforms  
+🔐 Secure and scalable backend systems  
+📱 Cross-platform mobile experiences  
+
+---
+
+# 💻 Tech Stack
+
+## 👨‍💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts" />
+</p>
+
+---
+
+## 🌐 Full Stack Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,html,css,tailwind,flask,flutter" />
+</p>
+
+---
+
+## 🗄️ Databases & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase" />
+</p>
+
+---
+
+## 🤖 AI & Data Science
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+<p>
+  Machine Learning • Deep Learning • Reinforcement Learning • Generative AI • NLP
+</p>
+
+---
+
+## 🛠️ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma" />
+</p>
+
+<p>
+  Streamlit • MATLAB • Canva • Cloudinary • Plotly • Pandas • NumPy
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🌾 Agri AI
+AI-powered agriculture assistant platform with chatbot support, crop intelligence, and smart API workflows.
+
+**Tech:** Python • Flask • Gemini API
+
+---
+
+## 🎵 SoulSync
+AI-powered multimodal music platform using emotion detection for personalized listening experiences.
+
+**Tech:** Dart • Python • C++ • Swift • JavaScript
+
+---
+
+## 🐉 Focus Dragon
+Gamified productivity and focus-tracking mobile application with digital wellness workflows.
+
+**Tech:** Flutter • Dart • Kotlin
+
+---
+
+## 💬 GenZ Chat
+Real-time chat application designed for scalable and interactive communication experiences.
+
+**Tech:** TypeScript • Socket.io
+
+---
+
+## 🤖 Intelligent Multi-Agent Planning System
+Reinforcement learning framework using SAC for autonomous navigation and cooperative search systems.
+
+**Tech:** Python • Reinforcement Learning
+
+---
+
+## 🔐 Secure File Management System
+Lightweight encryption-based secure file protection system.
+
+**Tech:** C • CMake
+
+---
+
+# 🏆 Publication
+
+## 📄 AI-Driven Cybersecurity Framework for Smart Grids
+Published research focused on:
+- cyber-physical anomaly detection
+- smart grid security
+- real-time threat analysis
+- edge-deployable AI systems
+
+⚡ Achieved up to **99.8% detection accuracy**
+
+---
+
+# 💼 Experience
+
+## 🎯 Web Designer — InCTF 2026
+Worked on web experience and interface development for a national-level cybersecurity event hosted by Amrita Vishwa Vidyapeetham.
+
+---
+
+# 🌟 Leadership & Activities
+
+### 🚀 Technical Member — INIT Club
+Web Development Team Member
+
+### 🎥 Media Team — IETE Student Forum
+Photographer & Videographer for technical events
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vignes-vm&show_icons=true&theme=tokyonight" height="180em"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vignes-vm&layout=compact&theme=tokyonight" height="180em"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vignes-vm&theme=tokyonight" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vignes-vm&theme=tokyo-night" />
+</p>
+
+---
+
+# 🌍 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/vignes-madeshwaran-380b15358" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+<a href="https://www.instagram.com/vign.ess_" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
+</a>
+
+<a href="mailto:vignes.madeshwaran@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vignes-vm&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
+---
+
+<h3 align="center">
+⚡ AI × Full Stack × Real-Time Systems × Product Engineering ⚡
+</h3>
+
