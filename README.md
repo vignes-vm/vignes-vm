@@ -69,15 +69,36 @@ Mission:
 
 ---
 
+<div align="center">
+
+<a href="https://vignesvm.netlify.app">
+
+<img 
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:2563eb,100:0ea5e9&height=90&section=header&text=🚀%20CLICK%20TO%20VISIT%20MY%20PORTFOLIO&fontSize=32&fontColor=ffffff&animation=twinkling"
+/>
+
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://vignesvm.netlify.app">
+
+<img 
+  src="https://img.shields.io/badge/🚀%20VISIT%20MY%20PORTFOLIO-0f172a?style=for-the-badge&logo=vercel&logoColor=white&labelColor=7c3aed"
+  height="55"
+/>
+
+</a>
+
+</div>
+
 <!-- ===================================================== -->
 <!--                   SOCIAL SECTION                      -->
 <!-- ===================================================== -->
 
 <div align="center">
-
-<a href="https://vignesvm.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
 
 <a href="https://github.com/vignes-vm">
   <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
