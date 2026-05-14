@@ -299,21 +299,21 @@ Advanced smart-grid cybersecurity framework focused on:
 <!--                CURRENT FOCUS SECTION                  -->
 <!-- ===================================================== -->
 
-# ⚡ Current Focus
+<!-- # ⚡ Current Focus -->
 
-<div align="center">
+<!-- <div align="center"> -->
 
-```diff
-+ AI Product Engineering
-+ Institutional Trading Intelligence
-+ Real-Time Full Stack Systems
-+ Intelligent Automation Platforms
-+ Scalable SaaS Architecture
-```
+<!-- ```diff -->
+<!-- + AI Product Engineering -->
+<!-- + Institutional Trading Intelligence -->
+<!-- + Real-Time Full Stack Systems -->
+<!-- + Intelligent Automation Platforms -->
+<!-- + Scalable SaaS Architecture -->
+<!-- ``` -->
 
-</div>
+<!-- </div> -->
 
----
+<!-- --- -->
 
 <!-- ===================================================== -->
 <!--                  CONTRIBUTION GRAPH                   -->
