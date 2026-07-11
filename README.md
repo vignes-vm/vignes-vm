@@ -327,14 +327,6 @@ Advanced smart-grid cybersecurity framework focused on:
 
 </div>
 
----
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vignes-vm&theme=tokyonight&no-frame=true&column=7"/>
-
-</div>
-
----
 
 <!-- ===================================================== -->
 <!--                  DEV PHILOSOPHY                       -->
